@@ -12,13 +12,13 @@ You need to use an already developed *`Python`* classifier to make sure the part
 
 **Note, you DO NOT need to create the classifier. It will be provided to you. You will need to apply the Python tools you just learned to USE the classifier.**
 
-###Your Tasks:
+### Your Tasks:
  - Using your Python skills, you will determine which image classification algorithm works the "best" on classifying images as "dogs" or "not dogs".
  - Determine how well the "best" classification algorithm works on correctly identifying a dog's breed.
  - If you are confused by the term image classifier look at it simply as a tool that has an input and an output. The Input is an image. The output determines what the image depicts. (for example: a dog). Be mindful of the fact that image classifiers do not always categorize the images correctly. (We will get to all those details much later on the program).
  - Time how long each algorithm takes to solve the classification problem. With computational tasks, there is often a trade-off between accuracy and runtime. The more accurate an algorithm, the higher the likelihood that it will take more time to run and use more computational resources to run.
 
-##Answers to Questions on Classify Uploaded Images
+## Answers to Questions on Classify Uploaded Images
 Questions to Answer regarding Uploaded Image Classification:
 Once the program stops running and the results files appear in the workspace, open and review each of the three to answer the following questions:
 
@@ -48,8 +48,8 @@ However based on the results of the classification of the pet_images directory (
 | Dog Images | 30 |
 | Not-a-dog Images | 10 |
 
-| CNN Model Architecture | % Correct Not-a-dog | % Correct Dog | % Correct Breed | % Match Labels
+| CNN Model Architecture | % Correct Not-a-dog | % Correct Dog | % Correct Breed | % Match Labels |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| ResNet | 90 | 100 | 90 | 90 | 82.5 |
+| ResNet | 90 | 100 | 90 | 82.5 |
 | AlexNet | 100 | 100 | 80 | 75 |
 | VGG | 100 | 100 | 93 1/3 | 87.5 |
