@@ -44,10 +44,9 @@ However based on the results of the classification of the pet_images directory (
 
 ## Final Results
 
-| ----------- | ----------- |
-| Total Images | 40 |
-| Dog Images | 30 |
-| Not-a-dog Images | 10 |
+Total Images: 40
+Dog Images: 30
+Not-a-dog Images: 10
 
 | CNN Model Architecture | % Correct Not-a-dog | % Correct Dog | % Correct Breed | % Match Labels |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
