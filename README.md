@@ -19,6 +19,7 @@ You need to use an already developed *`Python`* classifier to make sure the part
  - Time how long each algorithm takes to solve the classification problem. With computational tasks, there is often a trade-off between accuracy and runtime. The more accurate an algorithm, the higher the likelihood that it will take more time to run and use more computational resources to run.
 
 ## Answers to Questions on Classify Uploaded Images
+(All images in uploaded_images are royalty-free were downloaded from pexels.com)  
 Questions to Answer regarding Uploaded Image Classification:
 Once the program stops running and the results files appear in the workspace, open and review each of the three to answer the following questions:
 
